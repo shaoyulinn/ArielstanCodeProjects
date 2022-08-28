@@ -1,4 +1,4 @@
-## ArielstanCodeProjects
+## Ariel's stanCode Projects
 Hello there!\
 This repository holds my programming projects during the period of stanCode course.
 

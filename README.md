@@ -6,10 +6,10 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 * [Hangman Game](
- * python semantics & syntax
+  * python semantics & syntax
 * [Pedestrian Removing Application](
- * image processing
-* [Breakout Game](
- * animation & game designing
+  * image processing
+* [Breakout Game](https://github.com/shaoyulinn/ArielstanCodeProjects/tree/main/ArielstanCodeProjects/breakout)
+  * animation & game designing
 * [Name Popularity Searching System](https://github.com/shaoyulinn/ArielstanCodeProjects/tree/main/ArielstanCodeProjects/babyname)
- * data structure
+  * data structure
